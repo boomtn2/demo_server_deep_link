@@ -1,0 +1,5 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target" : { "namespace": "android_app", "package_name": "hit.coder.ttsaudioquanhonngontinh",
+     "sha256_cert_fingerprints": ["A8:F2:C6:32:14:A8:0E:2E:84:5F:47:38:E2:34:69:E0:8A:01:4F:98:DE:A5:46:64:01:28:7E:87:86:26:D5:AB"] }
+  }]

@@ -1,0 +1,15 @@
+{
+    "applinks": {
+        "details": [
+            {
+                "appIDs": ["TPHCM2024.com.tntkhang.DeepLink"],
+		"components": [
+				{
+					"/": "/*",
+					"comment": "Matched any url"
+				}
+			]
+            }
+        ]
+    }
+}
