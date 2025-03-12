@@ -5,3 +5,15 @@ const nextConfig: NextConfig = {
 };
 
 export default nextConfig;
+
+
+module.exports = {
+  async rewrites() {
+    return [
+      {
+        source: "/.well-known/assetlinks.json",
+        destination: "/api/assetlinks",
+      },
+    ];
+  },
+};
